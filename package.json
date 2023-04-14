@@ -1,5 +1,5 @@
 {
-  "name": "a1.1",
+  "name": "a3",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,10 @@
     "next": "^12.0.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/react": "^17.0.38",
+    "typescript": "^4.5.5"
   }
 }
